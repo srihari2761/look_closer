@@ -7,10 +7,10 @@ import cv2
 # Imports the Google Cloud client library
 from google.cloud import vision
 from google.cloud.vision import types
-
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'goog.json'
 # Instantiates a client
 client = vision.ImageAnnotatorClient()
-cap = cv2.VideoCapture('http://18.30.62.49:8080//video')
+cap = cv2.VideoCapture('http://192.168.43.61:8080//video')
 # cap.set(CV_CAP_PROP_BUFFERSIZE, 3)
 while(True):
      # Capture frame-by-frame
@@ -28,7 +28,7 @@ while(True):
     cv2.imwrite('ocr.png',gray)
     # Display the resulting frame
     cv2.imshow('After',gray)
-    cv2.imshow("before",frame)
+    # cv2.imshow("before",frame)
 
     k = cv2.waitKey(1) & 0xFF
     if k  == ord('q'):
