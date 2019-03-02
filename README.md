@@ -27,6 +27,6 @@ Integrated image enhancement recognition system is useful for people with low-vi
     1) Does the software work?
         A) Of course
     2) Does it work realtime?
-        A) Yes, as long as it is connected to a non-traffic network connection, it works lag-free.
+        A) Yes, as long as it is connected to an internet connection, it works fine.
     3) Who to contact when it still doesnt work after following all steps?
         A) Try raising an issue, which is the easiest way to identify and fix the bug. If it is urgent, send an email to sjayakumar1@bwh.harvard.edu
