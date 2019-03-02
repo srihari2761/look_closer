@@ -30,3 +30,5 @@ Integrated image enhancement recognition system is useful for people with low-vi
         A) Yes, as long as it is connected to an internet connection, it works fine.
     3) Who to contact when it still doesnt work after following all steps?
         A) Try raising an issue, which is the easiest way to identify and fix the bug. If it is urgent, send an email to sjayakumar1@bwh.harvard.edu
+
+[embed]https://github.com/srihari2761/look_closer/blob/master/ATHack%20-%20Team%20Haoran.pdf[/embed]
