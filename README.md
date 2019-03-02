@@ -32,7 +32,7 @@ Integrated image enhancement recognition system is useful for people with low-vi
         A) Try raising an issue, which is the easiest way to identify and fix the bug. If it is urgent, send an email to sjayakumar1@bwh.harvard.edu
 
 # Demo:
-    [Click here please](https://www.youtube.com/watch?v=LH29S8SyAHc)
+[DEMO-VIDEO](https://www.youtube.com/watch?v=LH29S8SyAHc)
 
 # Presentation:
 
