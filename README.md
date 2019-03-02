@@ -19,9 +19,9 @@ Integrated image enhancement recognition system is useful for people with low-vi
 
 ## How to use the software?
     You will see a realtime feed of your smartphone camera. 
-    1) Press w to perform Optical Character Recognition and display the text.
-    2) Press e to save the Words recognised in a word document.
-    3) Press q to exit the application.
+    1) Press **w key** to perform Optical Character Recognition and display the text.
+    2) Press **e key** to save the Words recognised in a word document.
+    3) Press **q key** to exit the application.
 
 ## Questions
     1) Does the software work?
