@@ -31,6 +31,9 @@ Integrated image enhancement recognition system is useful for people with low-vi
     3) Who to contact when it still doesnt work after following all steps?
         A) Try raising an issue, which is the easiest way to identify and fix the bug. If it is urgent, send an email to sjayakumar1@bwh.harvard.edu
 
+# Demo:
+    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
 # Presentation:
 
 ![alt text](https://raw.githubusercontent.com/srihari2761/look_closer/master/images/01.jpg)
