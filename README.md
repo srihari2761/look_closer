@@ -31,4 +31,18 @@ Integrated image enhancement recognition system is useful for people with low-vi
     3) Who to contact when it still doesnt work after following all steps?
         A) Try raising an issue, which is the easiest way to identify and fix the bug. If it is urgent, send an email to sjayakumar1@bwh.harvard.edu
 
+# Presentation:
+
 ![alt text](https://raw.githubusercontent.com/srihari2761/look_closer/master/images/01.jpg)
+![alt text](https://raw.githubusercontent.com/srihari2761/look_closer/master/images/02.jpg)
+![alt text](https://raw.githubusercontent.com/srihari2761/look_closer/master/images/03.jpg)
+![alt text](https://raw.githubusercontent.com/srihari2761/look_closer/master/images/04.jpg)
+![alt text](https://raw.githubusercontent.com/srihari2761/look_closer/master/images/05.jpg)
+![alt text](https://raw.githubusercontent.com/srihari2761/look_closer/master/images/06.jpg)
+![alt text](https://raw.githubusercontent.com/srihari2761/look_closer/master/images/07.jpg)
+![alt text](https://raw.githubusercontent.com/srihari2761/look_closer/master/images/08.jpg)
+![alt text](https://raw.githubusercontent.com/srihari2761/look_closer/master/images/09.jpg)
+![alt text](https://raw.githubusercontent.com/srihari2761/look_closer/master/images/10.jpg)
+![alt text](https://raw.githubusercontent.com/srihari2761/look_closer/master/images/11.jpg)
+
+
